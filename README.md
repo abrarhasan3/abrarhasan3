@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrar Hasan</h1>
-<h3 align="center">I’m interested in Computer Networks, Compiler Design, Software Enginnering, Machine Learning and Deep Learning.</h3>
+<h3 align="center">I’m interested in Machine Learning , Deep Learning, Software Enginnering, Computer Networks and Compiler Design.</h3>
 
 - 📫 How to reach me **abrarhasan1998@gmail.com**
 
