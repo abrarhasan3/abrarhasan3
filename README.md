@@ -22,7 +22,7 @@
 <!--
 <a href="https://www.leetcode.com/https://github.com/abrarhasan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://github.com/abrarhasan3" height="30" width="40" /></a>
 -->
-<a href="discordapp.com/users/Abrar#1466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://github.com/abrarhasan3" height="30" width="40" /></a>
+<a href="discordapp.com/users/690548279284596787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://github.com/abrarhasan3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
